@@ -13,4 +13,4 @@ Tensorflow 1.15.0
 </br>Keras 2.1.5
 ## Weight
 Trained weight of this project: https://drive.google.com/file/d/13tMnidB3J1rdIpfrXHzEFbqWHQXeJxeS/view?usp=sharing
-</br>Pre=trained weight: https://drive.google.com/file/d/18Ni-P_gbMFkQb5pIbGn2AmOG8wHhQKTm/view?usp=sharing
+</br>Pre-trained weight: https://drive.google.com/file/d/18Ni-P_gbMFkQb5pIbGn2AmOG8wHhQKTm/view?usp=sharing
