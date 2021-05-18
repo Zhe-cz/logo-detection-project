@@ -1,4 +1,4 @@
-# logo-detection-project
+# Logo-detection-project
 Automatic Detection of Brand Logos is a tool identifying brand logos in images and
 videos, and calculate how long the logo is visible. It can not only identify 10 different
 brands, 5 international brands and 5 Chinese brands, (Adidas, Kappa, New
