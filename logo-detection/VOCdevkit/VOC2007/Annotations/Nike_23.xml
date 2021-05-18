@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>Nike_23.jpg</filename>
+	<path>D:\Zhe_project\logo_detection\VOCdevkit\VOC2007\JPEGImages\Nike_23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nike</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>502</xmin>
+			<ymin>606</ymin>
+			<xmax>1195</xmax>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+</annotation>

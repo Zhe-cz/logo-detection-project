@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>puma_0(93).jpg</filename>
+	<path>D:\Zhe_project\logo_detection\VOCdevkit\VOC2007\JPEGImages\puma_0(93).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>puma</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>60</xmin>
+			<ymin>69</ymin>
+			<xmax>100</xmax>
+			<ymax>96</ymax>
+		</bndbox>
+	</object>
+</annotation>

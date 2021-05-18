@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>xtep_0(225).jpg</filename>
+	<path>D:\Zhe_project\logo_detection\VOCdevkit\VOC2007\JPEGImages\xtep_0(225).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>xtep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>312</xmin>
+			<ymin>331</ymin>
+			<xmax>470</xmax>
+			<ymax>441</ymax>
+		</bndbox>
+	</object>
+</annotation>

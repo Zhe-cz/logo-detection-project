@@ -1,0 +1,26 @@
+<annotation>
+	<folder>JPEGImages</folder>
+	<filename>anta_0(69).jpg</filename>
+	<path>D:\Zhe_project\logo_detection\VOCdevkit\VOC2007\JPEGImages\anta_0(69).jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>252</width>
+		<height>200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>anta</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>84</ymin>
+			<xmax>113</xmax>
+			<ymax>117</ymax>
+		</bndbox>
+	</object>
+</annotation>

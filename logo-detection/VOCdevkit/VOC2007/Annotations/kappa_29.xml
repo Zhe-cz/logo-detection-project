@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kappa</folder>
+	<filename>kappa_29.jpg</filename>
+	<path>C:\Users\Cui\Desktop\kappa\kappa_29.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>377</width>
+		<height>304</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>kappa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>39</ymin>
+			<xmax>314</xmax>
+			<ymax>165</ymax>
+		</bndbox>
+	</object>
+</annotation>

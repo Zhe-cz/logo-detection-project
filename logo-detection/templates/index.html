@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link rel="stylesheet" href="/static/css/bootstrap.min.css">
+    <script type="application/javascript" src="/static/js/jquery-3.3.1.min.js"></script>
+    <script type="application/javascript" src="/static/js/bootstrap.min.js"></script>
+</head>
+<body>
+<h1 align="center">Logo detection </h1>
+<nav aria-label="breadcrumb ">
+    <ol class="breadcrumb container">
+        <li class="breadcrumb-item active" aria-current="page"></li>
+    </ol>
+</nav>
+<div class="container">
+    <form action="javascript:void(0);">
+        <div class="form-group">
+            <input type="button" id="loadFileXml" value="Please choose an image" onclick="document.getElementById('exampleFormControlFile1').click();" />
+            <input type="file"  class="form-control-file" id="exampleFormControlFile1" name="img"   style="display:none;"  />
+
+        </div>
+        <div class="form-group">
+            <fieldset class="h6">Original image</fieldset>
+            <div style="width: 360px;height: 360px;border-style: solid; border-width:1px;">
+                <img class="pull-right" src="" alt="" id="show"
+                     style="width: 100%;height: 100%">
+            </div>
+
+        </div>
+        <div class="form-group">
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </div>
+    </form>
+
+    <div class="breadcrumb">
+        <h4>Detection result: <span id="resp_text"></span></h4>
+        <div class="content">
+            <img src="" id="resp_img" alt="">
+        </div>
+    </div>
+
+
+</div>
+<script>
+    var img = "";
+    $('#exampleFormControlFile1').bind('change', function (e) {
+        var files = this.files;
+        if (files.length) {
+            checkFile(this.files);
+        }
+    });
+
+
+    function checkFile(files) {
+        var file = files[0];
+        var reader = new FileReader();
+        // show refers to <div id='show'></div>，use to show the preview
+        if (!/image\/\w+/.test(file.type)) {
+            show.innerHTML = "Make sure the file is an image";
+            return false;
+        }
+        // onload is Asynchronous Operation
+        reader.onload = function (e) {
+            $("#show").attr("src", e.target.result);
+            img = e.target.result
+        };
+        reader.readAsDataURL(file);
+    }
+
+    $("button").click(function () {
+        $("#resp_imgs>img").remove();
+        $("#resp_detail>div").remove();
+
+        $.ajax({
+            url: "/",
+            type: "post",
+            dataType: "text",
+            data: {
+                "img": img
+            }, success: function (resp) {
+                // console.log(resp);
+                $("#resp_img").attr("src","data:image/jpeg;base64,"+resp)
+
+
+            }
+        })
+
+
+    });
+
+</script>
+
+
+</body>
+</html>

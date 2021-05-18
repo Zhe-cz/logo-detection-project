@@ -1,0 +1,176 @@
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(103).jpg 135,136,162,162,0 121,104,146,120,0 5,3,75,42,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(105).jpg 122,116,155,138,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(110).jpg 42,54,165,150,0 533,456,590,502,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(24).jpg 241,388,347,452,0 24,23,137,98,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(40).jpg 92,85,145,118,0 7,5,66,43,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(43).jpg 132,61,154,74,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(52).jpg 147,74,175,96,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(54).jpg 151,116,173,133,0 116,53,130,72,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(60).jpg 119,62,150,83,0 148,115,171,142,0 64,59,94,76,0 1,6,67,42,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(84).jpg 88,113,109,133,0 127,78,149,104,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/360_0(95).jpg 86,63,113,93,0 242,4,285,29,0
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(107).jpg 89,73,137,106,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(124).jpg 6,6,51,32,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(173).jpg 81,84,130,110,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(176).jpg 93,22,108,34,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(183).jpg 31,154,61,196,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(188).jpg 147,64,178,86,1 118,121,171,160,1 167,149,220,200,1 12,50,58,87,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(200).jpg 76,45,130,83,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(203).jpg 121,38,131,52,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(208).jpg 115,111,134,125,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(226).jpg 11,14,54,34,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(23).jpg 91,52,149,89,1 6,7,49,35,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(235).jpg 136,82,150,91,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(244).jpg 8,7,44,33,1 105,52,115,78,1 87,53,102,77,1 74,54,86,73,1 61,53,76,75,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(264).jpg 154,151,183,176,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(279).jpg 54,117,150,185,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(295).jpg 126,213,268,340,1 366,275,475,361,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(3).jpg 83,44,142,85,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(302).jpg 184,76,247,129,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(32).jpg 123,50,136,59,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(45).jpg 143,89,156,101,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(5).jpg 113,91,127,103,1 110,110,130,122,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(57).jpg 125,72,148,92,1 124,92,148,112,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(74).jpg 82,35,154,90,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(75).jpg 82,65,138,100,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/adidas_0(90).jpg 85,75,141,115,1
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(113).jpg 103,115,159,143,2 10,7,67,47,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(12).jpg 114,117,154,140,2 12,9,54,36,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(122).jpg 159,99,197,133,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(155).jpg 15,14,45,29,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(172).jpg 538,451,629,497,2 689,187,742,230,2 735,59,792,118,2 445,53,512,91,2 145,55,203,99,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(173).jpg 26,141,177,226,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(199).jpg 159,379,260,459,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(211).jpg 360,484,582,585,2 32,22,224,149,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(216).jpg 484,423,653,506,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(221).jpg 53,18,172,112,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(34).jpg 115,92,155,122,2 14,10,61,36,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(41).jpg 68,163,105,180,2 98,1,118,20,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(51).jpg 17,8,63,44,2 50,112,89,138,2 170,122,190,145,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(65).jpg 101,53,141,80,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_0(88).jpg 64,132,109,162,2 10,6,72,39,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_1(12).jpg 102,109,148,134,2 12,11,55,38,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_1(13).jpg 80,95,119,120,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_1(15).jpg 48,83,84,103,2 157,82,184,104,2 8,7,59,36,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_1(21).jpg 54,79,81,106,2 15,8,59,37,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/anta_1(27).jpg 120,111,164,134,2
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(104).jpg 11,5,62,24,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(111).jpg 39,102,59,124,3 115,55,164,82,3 4,2,40,17,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(113).jpg 133,158,180,186,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(116).jpg 145,101,177,155,3 55,93,96,126,3 2,4,68,21,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(121).jpg 63,69,110,140,3 4,6,64,27,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(132).jpg 104,130,165,158,3 122,76,142,95,3 5,5,58,24,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(139).jpg 9,7,63,26,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(156).jpg 4,5,38,20,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(160).jpg 14,12,87,31,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(163).jpg 7,34,288,122,3 366,461,607,541,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(165).jpg 53,30,299,97,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(182).jpg 45,26,320,103,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(190).jpg 36,21,363,125,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(199).jpg 312,301,480,483,3 55,29,292,102,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(203).jpg 11,11,104,40,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(204).jpg 99,77,119,116,3 191,78,204,118,3 177,123,211,135,3 92,121,127,134,3 8,4,115,32,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(206).jpg 24,2,155,51,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(21).jpg 80,126,113,136,3 144,145,178,167,3 157,28,224,55,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(25).jpg 130,119,173,161,3 14,5,87,27,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(29).jpg 6,6,65,25,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(40).jpg 9,5,52,26,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/erke_0(59).jpg 89,85,144,126,3 15,4,83,27,3
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_100.jpg 417,305,788,490,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_104.jpg 205,146,395,239,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_105.jpg 441,414,849,614,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_107.jpg 592,222,668,261,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_116.jpg 706,340,806,395,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_121.jpg 63,138,335,266,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_141.jpg 220,343,366,439,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_164.jpg 630,647,965,863,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_165.jpg 748,347,858,416,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_175.jpg 228,311,315,359,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_188.jpg 354,71,525,228,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_198.jpg 83,188,116,207,4 312,165,335,184,4 428,149,454,169,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_44.jpg 159,237,246,282,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_45.jpg 93,243,174,284,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_62.jpg 38,20,111,62,4 292,316,513,440,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_72.jpg 35,19,110,64,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_84.jpg 323,365,465,433,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/kappa_91.jpg 152,258,871,637,4
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(114).jpg 74,125,94,144,6 132,115,155,135,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(116).jpg 28,95,148,186,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(125).jpg 84,163,132,201,6 82,47,131,89,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(147).jpg 118,107,136,127,6 83,66,104,86,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(171).jpg 246,197,337,294,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(215).jpg 227,345,322,456,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(25).jpg 85,107,135,146,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(33).jpg 58,82,123,140,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(34).jpg 84,115,133,152,6 109,61,136,93,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(37).jpg 82,107,124,140,6 94,15,142,53,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(63).jpg 114,150,146,181,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(75).jpg 89,97,134,134,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(8).jpg 88,57,140,101,6 188,183,205,194,6 135,182,148,195,6 75,180,94,195,6 20,180,37,194,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_0(89).jpg 40,96,83,136,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_1(10).jpg 142,98,179,143,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_1(15).jpg 159,169,269,248,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/nb_1(18).jpg 362,302,488,439,6
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_102.jpg 66,150,219,247,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_108.jpg 182,127,338,213,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_120.jpg 240,346,337,386,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_132.jpg 261,233,506,348,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_151.jpg 452,359,690,429,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_161.jpg 610,374,778,449,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_162.jpg 357,668,662,769,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_169.jpg 658,555,733,605,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_175.jpg 464,251,739,323,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_177.jpg 83,279,922,605,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_185.jpg 1041,1182,1371,1314,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_190.jpg 311,214,419,271,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_36.jpg 160,121,208,149,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_40.jpg 325,244,405,348,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_42.jpg 325,176,444,298,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_60.jpg 136,204,248,302,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_71.jpg 241,121,461,186,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_86.jpg 255,346,412,397,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_92.jpg 146,207,326,280,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_93.jpg 237,227,454,292,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/Nike_98.jpg 1317,1038,2594,1503,7
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(117).jpg 97,71,148,113,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(12).jpg 73,82,119,120,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(121).jpg 82,78,112,103,8 32,6,63,28,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(13).jpg 113,44,138,73,8 146,109,164,142,8 42,104,72,124,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(133).jpg 100,85,155,127,8 151,147,169,187,8 96,134,123,148,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(135).jpg 78,82,126,115,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(16).jpg 114,121,133,136,8 168,124,190,140,8 105,25,139,55,8 164,177,184,198,8 92,178,113,198,8 21,175,43,193,8 39,117,58,131,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(163).jpg 113,100,145,135,8 36,10,72,41,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(165).jpg 354,63,521,183,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(185).jpg 593,395,682,484,8 187,387,312,479,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(210).jpg 285,614,564,861,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(28).jpg 134,73,158,91,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(29).jpg 104,125,141,164,8 33,6,50,27,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(44).jpg 119,74,160,108,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(58).jpg 100,30,122,50,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(59).jpg 71,46,110,83,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(66).jpg 85,74,114,108,8 30,10,56,30,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(67).jpg 83,19,108,45,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(82).jpg 116,52,194,130,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(88).jpg 105,30,139,44,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(92).jpg 76,49,111,84,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(93).jpg 60,69,100,96,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(96).jpg 101,105,139,142,8 159,10,178,28,8 60,13,85,24,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/puma_0(98).jpg 123,23,153,53,8
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(1).jpg 19,5,45,27,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(100).jpg 4,8,46,37,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(108).jpg 58,133,104,160,9 12,5,44,29,9 75,76,90,96,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(135).jpg 8,8,55,44,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(138).jpg 118,78,145,112,9 13,2,41,25,9 78,1,98,17,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(139).jpg 6,5,42,32,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(143).jpg 117,112,159,137,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(179).jpg 84,81,205,122,9 4,7,48,42,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(197).jpg 464,158,569,232,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(2).jpg 4,1,35,28,9 60,124,87,146,9 143,123,153,135,9 182,120,198,134,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(216).jpg 527,436,612,517,9 27,16,150,115,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(222).jpg 174,123,206,152,9 11,3,53,31,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(230).jpg 41,5,133,105,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(233).jpg 23,23,108,95,9 259,370,276,400,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(27).jpg 117,120,149,148,9 114,38,133,52,9 12,8,46,43,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(33).jpg 13,12,50,41,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(47).jpg 103,96,145,124,9
+D:\logo-detection-v2/VOCdevkit/VOC2007/JPEGImages/xtep_0(73).jpg 102,105,115,116,9 65,125,93,160,9
